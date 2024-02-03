@@ -5,6 +5,6 @@
 	process = git-lfs filter-process
 [user]
 	name = incognitotgt
-	email = mashoor539@icloud.com
+	email = [redacted]
 [core]
 	autocrlf = input
