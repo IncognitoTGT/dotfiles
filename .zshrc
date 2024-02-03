@@ -300,10 +300,10 @@ if [ "$(arch)" = "arm64" ]; then
 else
     eval "$(/usr/local/bin/brew shellenv)"
 fi
-export PATH="$PATH:/Users/mashooraiyaan/depot_tools"
+export PATH="$PATH:/Users/[redacted]/depot_tools"
 source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-export PATH="$PATH:/Users/mashooraiyaan/.cargo/bin"
+export PATH="$PATH:/Users/[redacted]/.cargo/bin"
 
 # pnpm
 export PNPM_HOME="/Users/mashooraiyaan/Library/pnpm"
